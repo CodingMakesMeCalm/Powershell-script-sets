@@ -1,8 +1,6 @@
 ﻿##INFO-3099-02 
 ##Assignment #1
 ##Number guess
-##Yao Li 
-##Student number: 0846753
 ##2019.09.17
 
 ##Clear screen
