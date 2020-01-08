@@ -1,3 +1,3 @@
 # Powershell-script-sets
-Powershell script sets
-Number guessing
+#Number guessing
+#System information collection
